@@ -1,0 +1,54 @@
+# Large files and datasets
+Lab04_NetworkVisualization/dogs-vs-cats.zip
+
+# Dataset files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Large model files
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.onnx
+
+# Data directories (common names)
+data/
+dataset/
+datasets/
+models/
+checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
